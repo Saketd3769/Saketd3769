@@ -25,6 +25,12 @@ The algorithm search, recursively, the best move that leads the Max player to wi
 ## What is Alpha Beta Pruning
 Alpha–beta pruning is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree. It stops evaluating a move when at least one possibility has been found that proves the move to be worse than a previously examined move.  
 
+***First lets see if the optimisation was worth it or not***
+
+
+https://user-images.githubusercontent.com/75195084/126134797-f6ace1e0-272f-44b8-a591-71df58e7f948.mp4
+
+
 
 **Lets see how Alpha Beta Pruning reduces time complexity**
 ![tictactoe-alphabeta-e8cb918f](https://user-images.githubusercontent.com/75195084/126125853-4b0f1506-55a5-4b8c-9bf7-742f863af41d.png)
