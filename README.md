@@ -1,7 +1,7 @@
 ### Tic Tac Toe GUI using Tkinter library from python
 
-This is a human vs human version
-https://user-images.githubusercontent.com/75195084/126076664-487b1aee-a96c-4f50-ab11-e62a82b0e769.mov
+This is a human vs human version with many functionalities depictded in below video
 
+https://user-images.githubusercontent.com/75195084/126106148-01c662ac-7bfd-4731-804e-5077ec6db623.mov
 
 
